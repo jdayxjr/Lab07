@@ -5,7 +5,7 @@
  * File : commission_employee.class.php
  * Description:
  */
-class ComissionEmployee extends Employee {
+class CommissionEmployee extends Employee {
 
     private $sales;
     private $comission_rate;

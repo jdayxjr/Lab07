@@ -41,4 +41,11 @@ abstract class Employee implements Payable
     {
         return self::$employee_count;
     }
+
+    public function toString()
+    {
+        $this->person->toString();
+    }
+
 }
+

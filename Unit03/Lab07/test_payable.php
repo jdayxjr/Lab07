@@ -24,7 +24,7 @@ $invoice2 = new Invoice(471, "Tire", 1, 90.00);
 
 
 //create information about Salaried Employee.
-$se = new SalariedEmployee(new Person("Carter Smith", "1", "3", "Research & Development", "$3,800.00"));
+$se = new SalariedEmployee(new Person("Carter", "Smith","male", 445556754), "1", "3", "Research & Development", "$3,800.00");
 
 //create information about Hourly Employee.
 $he = new HourlyEmployee("Karen Price", "2", "4", "Marketing", "3,200.00", "3,000.00");
@@ -50,6 +50,8 @@ foreach ($payables as $payable) {
 echo "<br><strong>Number of invoices</strong>: " . Invoice::getInvoiceCount();
 echo "<br><strong>Number of employees</strong>: " . Employee::getEmployeeCount();
 ?>
+
+
 
 </body>
 </html>
