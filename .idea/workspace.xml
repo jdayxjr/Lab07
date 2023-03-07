@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82e4caec-6164-44f7-bbfb-ab4e3b0c151f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/Lab08/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2F2LkJM8ZSbqjV40M8oltlDRdR7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.jetbrains.php.lang.actions.generation.PhpGenerateFieldAccessorHandlerBase$MyMemberChooser.fluent.setters.last.selected": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/xampp/htdocs/I211/Unit03/Lab07",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\I211\FINAL\FinalProject\www\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\I211\PDFS" />
+      <recent name="C:\xampp\htdocs\I211\ZIP FILES" />
+      <recent name="C:\xampp\htdocs\I211\Unit01\Movie\classes" />
+      <recent name="C:\xampp\htdocs\I211" />
+      <recent name="C:\xampp\htdocs\I211\FINAL\FinalProject\views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82e4caec-6164-44f7-bbfb-ab4e3b0c151f" name="Changes" comment="" />
+      <created>1663685373849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663685373849</updated>
+      <workItem from="1663685375201" duration="3603000" />
+      <workItem from="1663738036811" duration="122000" />
+      <workItem from="1663738172873" duration="748000" />
+      <workItem from="1663739717568" duration="327000" />
+      <workItem from="1663740058319" duration="114000" />
+      <workItem from="1663740379850" duration="50000" />
+      <workItem from="1663789199170" duration="606000" />
+      <workItem from="1663855714239" duration="169000" />
+      <workItem from="1664897913108" duration="1743000" />
+      <workItem from="1665213703286" duration="7344000" />
+      <workItem from="1665604392014" duration="389000" />
+      <workItem from="1665669989314" duration="1740000" />
+      <workItem from="1667923688180" duration="3639000" />
+      <workItem from="1668095576766" duration="2355000" />
+      <workItem from="1668525154745" duration="2415000" />
+      <workItem from="1668528593446" duration="2165000" />
+      <workItem from="1668626752586" duration="38000" />
+      <workItem from="1668699229066" duration="3729000" />
+      <workItem from="1668703374872" duration="161000" />
+      <workItem from="1668719127436" duration="6973000" />
+      <workItem from="1668731965111" duration="618000" />
+      <workItem from="1669130645402" duration="160000" />
+      <workItem from="1669130820778" duration="2435000" />
+      <workItem from="1669735957912" duration="36000" />
+      <workItem from="1669736016643" duration="6954000" />
+      <workItem from="1669909011052" duration="1193000" />
+      <workItem from="1669911574837" duration="11856000" />
+      <workItem from="1670343139686" duration="1523000" />
+      <workItem from="1670344712483" duration="2465000" />
+      <workItem from="1670516782542" duration="3508000" />
+      <workItem from="1670520403941" duration="512000" />
+      <workItem from="1670520953424" duration="61000" />
+      <workItem from="1670521065659" duration="175000" />
+      <workItem from="1670531623806" duration="19678000" />
+      <workItem from="1673366196732" duration="1292000" />
+      <workItem from="1673535909508" duration="3397000" />
+      <workItem from="1673972741449" duration="668000" />
+      <workItem from="1674139385018" duration="4704000" />
+      <workItem from="1674145422180" duration="9264000" />
+      <workItem from="1674269099190" duration="1518000" />
+      <workItem from="1674574853499" duration="4436000" />
+      <workItem from="1674611732198" duration="803000" />
+      <workItem from="1674746259971" duration="5845000" />
+      <workItem from="1675178950541" duration="6278000" />
+      <workItem from="1675351803947" duration="7728000" />
+      <workItem from="1675566097427" duration="764000" />
+      <workItem from="1675579795494" duration="56000" />
+      <workItem from="1675683226984" duration="628000" />
+      <workItem from="1675708207514" duration="635000" />
+      <workItem from="1675783740548" duration="3059000" />
+      <workItem from="1675956022302" duration="12186000" />
+      <workItem from="1676389626621" duration="2446000" />
+      <workItem from="1676562204786" duration="3488000" />
+      <workItem from="1676592048451" duration="6721000" />
+      <workItem from="1676932783156" duration="167000" />
+      <workItem from="1676940629302" duration="198000" />
+      <workItem from="1676992340209" duration="2939000" />
+      <workItem from="1677165192123" duration="14232000" />
+      <workItem from="1677599362552" duration="2634000" />
+      <workItem from="1677770234234" duration="1766000" />
+      <workItem from="1677773296050" duration="1416000" />
+      <workItem from="1677777181951" duration="1367000" />
+      <workItem from="1678135016457" duration="2808000" />
+      <workItem from="1678204205928" duration="1366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Unit02/cdcatalog/index.html</url>
+          <line>91</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
