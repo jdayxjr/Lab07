@@ -1,6 +1,6 @@
 <?php
 /**
- * Name : Deep Patel
+ * Name : Jay Dawson II
  * Date : 03/07/23
  * File : salaried_employee.class.php
  * Description:

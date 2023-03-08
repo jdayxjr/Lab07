@@ -36,8 +36,8 @@ class BasePlusCommissionEmployee extends ComissionEmployee {
     public function toString() {
         return
             parent::toString() ;
-            "<br><strong>Gross sale</strong>: $" . number_format($this->getSales(), 2) .
-            "<br><strong>Commission rate</strong>: " . number_format($this->getCommissionRate() * 100, 2) ."%" .
-            "<br><strong>Earning</strong>: $" . number_format($this->getPaymentAmount(), 2);
+        "<br><strong>Gross sale</strong>: $" . number_format($this->getSales(), 2) .
+        "<br><strong>Commission rate</strong>: " . number_format($this->getCommissionRate() * 100, 2) ."%" .
+        "<br><strong>Earning</strong>: $" . number_format($this->getPaymentAmount(), 2);
     }
 }

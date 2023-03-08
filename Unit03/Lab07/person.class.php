@@ -40,4 +40,3 @@ class Person {
     }
 }
 //end of class
-
