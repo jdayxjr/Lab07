@@ -1,6 +1,6 @@
 <?php
 /**
- * Name : Jay Dawson II
+ * Name : Abdul Sankoh
  * Date : 03/07/23
  * File : salaried_employee.class.php
  * Description:

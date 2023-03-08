@@ -1,6 +1,6 @@
 <?php
 /*
-* Author:Jay Dawson II
+* Author:Pierce Issah
 * Date: 03/07/23
 * File: payable.class.php
 * Description:

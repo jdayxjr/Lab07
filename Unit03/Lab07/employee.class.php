@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Author: Jay Dawson II
+ * Author: Adbul Sankoh
  * Date: 03/07/2023
  * File: employee.class.php
  * Description:
